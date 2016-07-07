@@ -15,3 +15,5 @@ In second window run database,  (for example, for Windows OS)
 mongod --storageEngine=mmapv1 --dbpath C:\mongodb
 
 Then open index.html in two (or more) windows and you can play with chat!
+
+See demo at http://thawing-dusk-12716.herokuapp.com/
